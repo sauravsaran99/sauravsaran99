@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sauravsaran
-- 👀 I’m interested in doing coding.. coding.. only coding..
+- 👀 Show me your code.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 If you need me reach me out on gmail sauravsaran99@gmail.com
