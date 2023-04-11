@@ -11,9 +11,9 @@ Hello, I'm Saurav 👦
 
 ## About
 <div>
-  I'm a full-stack web developer with a passion for coding💻.I've worked on cloning websites using HTML, CSS, and JavaScript. Express, Node.js, and MongoDB in the projects I worked on.
-
-  I really enjoy solving problems as well as making user-friendly websites . I can't stop learning new things; the more, the better.
+  I'm a full-stack web developer with a passion for coding💻. I dedicated and efficient web developer, I bring with me eight months of experience and having cetifications in both Frontend and Backend technologies, A strong foundation MERN stack development is evident in my work as a developer. 
+  
+  Committed to being a proactive problem-solver and collaborating effectively with colleagues to achieve project goals.
 <div>
 <br></br>
 
@@ -29,6 +29,7 @@ Hello, I'm Saurav 👦
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="ReactNative" height="50" />
 </div>
 
 <br></br>
