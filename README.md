@@ -29,7 +29,7 @@ Hello, I'm Saurav 👦
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/reactnative-scm-icon.svg" alt="ReactNative" height="50" />
+ <img style="margin: 10px" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="ReactNative" height="50" />
 </div>
 
 <br></br>
