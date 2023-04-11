@@ -11,7 +11,7 @@ Hello, I'm Saurav 👦
 
 ## About
 <div>
-  I'm a full-stack web developer with a passion for coding💻. I dedicated and efficient web developer, I bring with me eight months of experience and having cetifications in both Frontend and Backend technologies, A strong foundation MERN stack development is evident in my work as a developer. 
+  I'm a full-stack web developer with a passion for coding💻. I bring with me eight months of experience and having cetifications in both Frontend and Backend technologies, A strong foundation MERN stack development is evident in my work as a developer. 
   
   Committed to being a proactive problem-solver and collaborating effectively with colleagues to achieve project goals.
 <div>
