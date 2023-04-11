@@ -29,13 +29,14 @@ Hello, I'm Saurav 👦
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="ReactNative" height="50" />
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/reactnative-scm-icon.svg" alt="ReactNative" height="50" />
 </div>
 
 <br></br>
-  * 📚 Now, I'm currently learning React ;
-  * 📷I am passionate about Web Dev & I enjoy learning new things.!
+  * 🔭 Now, I'm currently working on personal react native project ;
+  * 🌱 I’m currently learning TypeScript;
   * 🎮 I like playing cricket and learning new things ;
+  * ❓ Ask me about anything related to MERN stack and related technologies
   * 📫 How to reach me **sauravsaran99@gmail.com**
 
 
