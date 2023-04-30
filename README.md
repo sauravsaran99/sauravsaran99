@@ -34,7 +34,7 @@ Hello, I'm Saurav 👦
 
 <br></br>
   * 🔭 Now, I'm currently working on personal react native project ;
-  * 🌱 I’m currently learning Flutter;
+  * 🌱 I’m currently learning Django;
   * 🎮 I like playing cricket and learning new things ;
   * ❓ Ask me about anything related to MERN stack and related technologies
   * 📫 How to reach me **sauravsaran99@gmail.com**
