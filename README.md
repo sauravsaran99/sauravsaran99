@@ -11,7 +11,7 @@ Hello, I'm Saurav 👦
 
 ## About
 <div>
-  I'm a full-stack web developer with a passion for coding💻. I bring with me eight months of experience and having cetifications in both Frontend and Backend technologies, A strong foundation MERN stack development is evident in my work as a developer. 
+  I'm a full-stack web developer with a passion for coding💻. I bring with me eight months of experience and have cetifications in both Frontend and Backend technologies, A strong foundation MERN stack development is evident in my work as a developer. 
   
   Committed to being a proactive problem-solver and collaborating effectively with colleagues to achieve project goals.
 <div>
@@ -33,17 +33,17 @@ Hello, I'm Saurav 👦
 </div>
 
 <br></br>
-  * 🔭 Now, I'm currently working on personal react native project ;
+  * 🔭 Now, I'm currently working on a personal react native project ;
   * 🌱 I’m currently learning Django;
   * 🎮 I like playing cricket and learning new things ;
-  * ❓ Ask me about anything related to MERN stack and related technologies
+  * ❓ Ask me about anything related to the MERN stack and related technologies
   * 📫 How to reach me **sauravsaran99@gmail.com**
 
 
 <br></br>
 ## Connect with me  
 
-<a href="https://www.linkedin.com/in/saurav-kumar-3659bb197/">
+<a href="https://www.linkedin.com/in/saurav-sharma-3659bb197/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
